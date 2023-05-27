@@ -1,4 +1,4 @@
-### 👋 Hello there and welcome to my GitHub!
+### 👋 Hello there and welcome to my GitHub! I have a Codeberg account that you can visit [here](https://codeberg.org/musselman)
 ##### This account serves as a mirror for some of my projects from codeberg, and allows me to contribute to projects that are only found here!
 
 🎉 Congratulations, you've stumbled upon my virtual playground where I code my dreams into reality!
